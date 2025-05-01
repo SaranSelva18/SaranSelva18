@@ -2,7 +2,7 @@
 
 🎓 I'm a 3rd-year Computer Science Engineering student.
 
-🧠 Hackathon Winner (Smart India Hackathon 2024 - Face Liveliness Detection).
+🧠 Hackathon Winner (Internal Smart India Hackathon 2024 - Face Liveliness Detection).
 
 📊 Have experience with Data Science and Internships in practical, impactful domains.
 
